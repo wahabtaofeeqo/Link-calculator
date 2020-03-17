@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">LinkCalculator</string>
+    <string name="intro">The Application to hack Hackers and phish out the Phishers</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="syncMenu">Syncronise Menu</string>
+    <string name="hostName">Host  Name: </string>
+    <string name="phishing">Phishing Status: </string>
+    <string name="markAsTrusted">Mark as trusted</string>
+    <string name="openInBrowser">Open In Browser</string>
+    <string name="linkOK">
+        The above website has been marked by google as an unsave website! It is probably because of phishing or Malware distribution. so, you are advise not to open it.
+    </string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Full name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone Number</string>
+    <string name="cPassword">Confirm Password</string>
+
+    <string name="host">Host name: %s</string>
+    <string name="title">Page Title: %s</string>
+    <string name="nulls">Null Links: %s</string>
+    <string name="foreign">Foreign Links: %s</string>
+    <string name="inner">Inner Links: %s</string>
+    <string name="total">All Links: %s</string>
+
+    <string name="conclusion">The</string>
+</resources>
